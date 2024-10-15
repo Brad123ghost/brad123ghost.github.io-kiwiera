@@ -1,0 +1,82 @@
+/* Should be refactored to target all woocommerce styling specific to color */
+
+/* Woocommerce CSS */
+/* Account page */
+.woocommerce-MyAccount-navigation-link a:hover {
+    background: #f3d28c;
+}
+
+body .woocommerce-MyAccount-navigation-link.is-active a {
+    background: #debf7c;
+}
+
+.woocommerce-js table.shop_table thead,
+.woocommerce-page table.shop_table thead {
+    background-color: transparent;
+}
+
+.woocommerce-MyAccount-content .table>thead>tr>th {
+    border-bottom: 2px solid var(--ast-border-color);
+}
+
+.form-row label,
+.woocommerce-js div.product .woocommerce-tabs ul.tabs li a,
+.comment-form label,
+.wc-block-components-checkbox label span,
+.woocommerce-EditAccountForm legend,
+.woocommerce-js div.product .woocommerce-tabs ul.tabs li a {
+    color: var(--e-global-color-astglobalcolor0);
+}
+
+.woocommerce-error,
+.woocommerce-info,
+.woocommerce-message {
+    background: #e8e8e8;
+}
+
+/* All products/shop page */
+.woocommerce-page ul.products li.product .ast-shop-product-out-of-stock {
+    background-color: rgba(60, 60, 60, 0.8)
+}
+
+select.orderby {
+    color: var(--e-astglobal-color0);
+}
+
+
+@media screen and (min-width: 601px) and (max-width:1023px) {
+    .woocommerce-MyAccount-navigation {
+        margin-bottom: 50px;
+    }
+
+    .entry-content ul,
+    .entry-content ol {
+        padding: 0px;
+    }
+
+    .woocommerce-orders-table__row {
+        border: 1px solid var(--ast-border-color);
+        margin-bottom: 25px;
+    }
+
+    .woocommerce-page table.shop_table,
+    .woocommerce-js table.shop_table {
+        border: none;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .woocommerce-MyAccount-navigation {
+        margin-bottom: 50px;
+    }
+
+    .entry-content ul,
+    .entry-content ol {
+        padding: 0px;
+    }
+
+    .woocommerce-orders-table__row {
+        border: 1px solid var(--ast-border-color);
+        margin-bottom: 25px;
+    }
+}

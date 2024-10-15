@@ -1,0 +1,11 @@
+/* Custom CSS for NZ Shipping plugin */
+.wc-block-components-totals-shipping .wc-block-components-totals-shipping__change-address__link {
+    color: var(--e-global-color-astglobalcolor0);
+}
+
+.wc-block-components-totals-shipping .wc-block-components-totals-shipping__change-address__link:hover {
+    border-radius: 0px !important;
+    background: none !important;
+    color: var(--e-global-color-astglobalcolor0);
+    opacity: 0.75;
+}

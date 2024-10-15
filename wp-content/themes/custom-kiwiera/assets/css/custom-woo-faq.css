@@ -1,0 +1,30 @@
+/* WOO FAQ */
+/* Reset alignment and width */
+.single-product .container {
+    padding: 0;
+    width: 100%;
+}
+
+/* Reset border */
+.single-product .accordion .accordion-item button[aria-expanded="true"] {
+    border-radius: 0px;
+    border-color: var(--e-global-color-astglobalcolor0);
+}
+
+/* Change colors to theme */
+.single-product .accordion button[aria-expanded='true'] {
+    color: var(--e-global-color-astglobalcolor0);
+}
+
+.single-product .accordion button:hover {
+    color: var(--e-global-color-astglobalcolor0);
+}
+
+.single-product .accordion button:focus {
+    color: #7288a2;
+}
+
+/* Change max size of accordion */
+.single-product .accordion button[aria-expanded="true"]+.accordion-content {
+    max-height: 20rem;
+}
