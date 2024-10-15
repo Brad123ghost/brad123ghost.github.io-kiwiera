@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>200g</title>
+	<atom:link href="/size/200g/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 15 Oct 2024 00:27:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/08/Untitled-design-100x100.png</url>
+	<title>200g</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">235482956</site>	<item>
+		<title>Sugar Free Propolis Lozenges</title>
+		<link>/product/sugar-free-propolis-lozenges-200g/</link>
+					<comments>/product/sugar-free-propolis-lozenges-200g/#respond</comments>
+		
+		<dc:creator><![CDATA[Bradley Chung]]></dc:creator>
+		<pubDate>Tue, 06 Aug 2024 00:08:30 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=65</guid>
+
+					<description><![CDATA[Test Desc [REMOVE BEFORE PUBLISHING]]]></description>
+										<content:encoded><![CDATA[<p>No Artificial Colours</p>
+<p>No Refined Sugar</p>
+<p>No Glucose Syrup</p>
+<p>250% Concentrated Propolis Added</p>
+<p>Immune Support</p>
+<p>Environment friendly</p>
+<p>Made in New Zealand</p>
+<p>Test Desc [REMOVE BEFORE PUBLISHING]</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/sugar-free-propolis-lozenges-200g/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">65</post-id>	</item>
+	</channel>
+</rss>
